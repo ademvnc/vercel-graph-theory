@@ -1,3 +1,5 @@
 dash
 dash-cytoscape
 gunicorn
+dash-bootstrap-components
+dash_extensions
